@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace TimeClocker_XOR
+namespace TimeClock
 {
     internal static class Program
     {
